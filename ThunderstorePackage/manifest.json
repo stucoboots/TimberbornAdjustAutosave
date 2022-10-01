@@ -1,0 +1,9 @@
+{
+    "name": "AdjustAutosave",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/stucoboots/TimberbornAdjustAutosave",
+    "description": "Adjust autosave frequency and number of autosaves kept.",
+    "dependencies": [
+      "BepInEx-BepInExPack_Timberborn-5.4.19"
+    ]
+  }

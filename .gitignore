@@ -1,0 +1,6 @@
+.vs/
+bin/
+libs/
+obj/
+Properties/
+*.sln
